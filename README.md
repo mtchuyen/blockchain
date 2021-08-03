@@ -118,3 +118,5 @@ blockchain: a revolutionary technology that enables peer-to-peer transfer of dig
 
 ## Ref
 - [The top blockchain jobs you need to know about](https://www.computerworld.com/article/3277617/blockchain/the-top-blockchain-jobs-you-need-to-know-about.html)
+
+- https://github.com/hlongvu/blockchain-go-vietnamese
