@@ -4,6 +4,8 @@ Source: https://www.coursera.org/learn/blockchain-foundations-and-use-cases
 
 Khóa học này là cơ bản, dành cho cả  developer and non-developer.
 
+Khóa học [Blockchain Bussiness](https://www.coursera.org/learn/blockchain-business-models)
+
 ***Nội dung:***
 - Giới thiệu về triết lý (philosophy) decentralization
 - Mô hình blockchains, và next-generation blockchain called Ethereum
@@ -15,8 +17,9 @@ Các mục tiêu giới thiệu trong này gồm:
 1.Why are People Excited About Blockchain? 
 2.Brief History of Blockchain 
 3.The Move to Decentralization, What is Decentralization?
-4.Ledgers, Distributed Ledgers, and Consensus 
-5.What is Blockchain? And Why?
+4.Ledgers, Distributed Ledgers, and Consensus: Distributed Consensus. 
+5.Consensus without Identity: the Block Chain. What is Blockchain? And Why?
+6.Incentives and Proof of Work.
 ```
 ## 2: Những kỹ thuật liên quan:
 Để trả lời cho câu hỏi: Why Do I Need a Public and Private Key on the Blockchain?
@@ -52,4 +55,37 @@ Các mục tiêu giới thiệu trong này gồm:
 2: Ownership and Governance
 3: Supply Chain and Asset Tracking
 4: Royalties in the Music Industry
+```
+## Ứng dụng Bitcoin của Blockchain:
+https://www.coursera.org/learn/cryptocurrency
+
+### Những điều cần biết vê Bitcoin:
+- How does Bitcoin work? 
+- What makes Bitcoin different? 
+- How secure are your Bitcoins? 
+- How anonymous are Bitcoin users? 
+- What determines the price of Bitcoins? 
+- Can cryptocurrencies be regulated? 
+- What might the future hold?
+
+### Mechanics of Bitcoin
+Learn how the individual components of the Bitcoin protocol make the whole system tick: transactions, script, blocks, and the peer-to-peer network.
+```
+Bitcoin Transactions
+Bitcoin Scripts
+Applications of Bitcoin Scripts
+Bitcoin Blocks
+The Bitcoin Network
+Limitations & Improvements
+```
+### How to Store and Use Bitcoins
+how using Bitcoins works in practice: different ways of storing Bitcoin keys, security measures, and various types of services that allow you to trade and transact with bitcoins.
+```
+How to Store and Use Bitcoins
+Hot and Cold Storage
+Splitting and Sharing Keys
+Online Wallets and Exchanges
+Payment Services
+Transaction Fees
+Currency Exchange Markets
 ```
